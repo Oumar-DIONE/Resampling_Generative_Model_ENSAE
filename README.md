@@ -1,0 +1,2 @@
+# Resampling_Generative_Model_ENSAE
+TP_et_Project_RGM
